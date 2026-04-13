@@ -9,13 +9,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-EDA-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![dashboard](images/dashboard.png)
 
 **Objective:** *Analyze buying patterns and extract meaningful business insights from 3,900 customer purchase records to support strategic decision-making.*
 
 </div>
 
 ---
+
+![dashboard](images/dashboard.png)
 
 ## 📊 Project Snapshot
 
@@ -115,6 +116,7 @@ customer-shopping-behavior-analytics/
 ---
 
 ## 📈 Phase 3 — Power BI Dashboard
+![dashboard](images/working_dashboard.png)
 
 **File:** `customer_behavior_analysis.pbix`
 
