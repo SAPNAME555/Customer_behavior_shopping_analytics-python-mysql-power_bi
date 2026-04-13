@@ -58,7 +58,7 @@ customer-shopping-behavior-analytics/
 ├── 📄 README.md                              ← You are here
 ├── 📊 customer_shopping_behavior.csv         ← Raw source dataset (3,900 × 18)
 ├── 🐍 customer_behavior_analysis_01.ipynb     ← Python: EDA, Cleaning, Feature Eng.
-├── 🗄️  customer_behavior_analysis_sql_01.sql  ← MySQL: 10 Business Intelligence Queries
+├── 🗄️  customer_behavior_analysis_01.sql  ← MySQL: 10 Business Intelligence Queries
 ├── 📈 customer_behavior_analysis.pbix        ← Power BI: Interactive Dashboard
 └── 📝 customer_behavior_portfolio_report.docx ← Full project report
 ```
@@ -88,7 +88,7 @@ customer-shopping-behavior-analytics/
 
 ## 🗄️ Phase 2 — SQL Business Intelligence
 
-**File:** `customer_behavior_analysis_sql_01.sql`  
+**File:** `customer_behavior_analysis_01.sql`  
 **Database:** MySQL 8.0
 
 > 10 structured business questions — each query directly answers a real business decision.
@@ -198,7 +198,7 @@ CREATE DATABASE customer_behavior_analysis;
 USE customer_behavior_analysis;
 
 -- Run the SQL file
-SOURCE customer_behavior_analysis_sql_01.sql;
+SOURCE customer_behavior_analysis_01.sql;
 ```
 
 > **Note:** Queries were written and tested in MySQL Workbench 8.0. Any display errors in downloaded `.sql` files are due to Workbench's connection state, not query logic.
