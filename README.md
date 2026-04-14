@@ -233,7 +233,16 @@ SOURCE customer_behavior_analysis_01.sql;
 
 ## 📬 Contact
 
-> Built as part of a data analytics portfolio to demonstrate end-to-end analytical thinking — from raw data to actionable business strategy.
+👤 AUTHOR
+
+SAPNA MEHRA
+
+(Aspiring BUSINESS ANALYST / DATA ANALYST)
+
+📧 sapnamehra232@gmail.com           
+
+🔗 LinkedIn: https://www.linkedin.com/in/sapna-mehra-288794335
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com)
