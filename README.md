@@ -119,7 +119,7 @@ customer-shopping-behavior-analytics/
 ## 📈 Phase 3 — Power BI Dashboard
 ![dashboard](images/working_dashboard.png)
 
-**File:** [Download Dashboard_pbix](./dashboard.pbix/customer_behavior_analysis_5.pbix)
+**File:** [Download Dashboard (.pbix)](https://github.com/SAPNAME555/Customer_behavior_shopping_analytics-python-mysql-power_bi/blob/main/dashborard.pbix/customer_behavior_analysis_5.pbix)
 
 ### Dashboard Highlights:
 - 📌 **KPI Cards** — Total Revenue, Avg Purchase, Avg Rating, Total Customers
