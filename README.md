@@ -62,7 +62,7 @@ customer-shopping-behavior-analytics/
 ├── 📊 customer_shopping_behavior.csv         ← Raw source dataset (3,900 × 18)
 ├── 🐍 customer_behavior_analysis_01.ipynb     ← Python: EDA, Cleaning, Feature Eng.
 ├── 🗄️  customer_behavior_analysis_01.sql  ← MySQL: 10 Business Intelligence Queries
-├── 📈 customer_behavior_analysis_1.pbix        ← Power BI: Interactive Dashboard
+├── 📈 customer_behavior_analysis_5.pbix        ← Power BI: Interactive Dashboard
 └── 📝 customer_behavior_portfolio_report.docx ← Full project report
 ```
 
@@ -119,7 +119,7 @@ customer-shopping-behavior-analytics/
 ## 📈 Phase 3 — Power BI Dashboard
 ![dashboard](images/working_dashboard.png)
 
-**File:** [Download Dashboard_pbix](./dashboard.pbix/customer_behavior_analysis_1.pbix)
+**File:** [Download Dashboard_pbix](./dashboard.pbix/customer_behavior_analysis_5.pbix)
 
 ### Dashboard Highlights:
 - 📌 **KPI Cards** — Total Revenue, Avg Purchase, Avg Rating, Total Customers
@@ -211,7 +211,7 @@ SOURCE customer_behavior_analysis_01.sql;
 > **Note:** Queries were written and tested in MySQL Workbench 8.0. Any display errors in downloaded `.sql` files are due to Workbench's connection state, not query logic.
 
 ### 3. Power BI Dashboard
-- Open `customer_behavior_analysis_1.pbix` in Power BI Desktop
+- Open `customer_behavior_analysis_5.pbix` in Power BI Desktop
 - Refresh data source to point to your local MySQL instance or CSV
 
 ---
